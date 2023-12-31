@@ -8,6 +8,7 @@ import yaml
 
 __author__ = "Samuel Marks <samuel@offscale.io>"
 __version__ = "0.0.1"
+__description__ = "Bazel deployment module for Fabric (offregister)"
 
 
 def get_logger(name=None):
